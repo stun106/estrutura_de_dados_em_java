@@ -1,12 +1,15 @@
 # Estruturas de Dados em Java
 
-Bem-vindo ao repositório de estruturas de dados! Este projeto contém implementações de estruturas de acordo com oque foi ensinado na Formação Java Dio.me. Usando programação orientada a objetos aprendemos a criar estruturas de dados lineares deixando de lado o uso de vetores onde podemos ver por de baixo dos panos como funciona as referências em nó de cada estrutura.
+Seja bem-vindo ao repositório de estruturas de dados em Java! Este projeto é fruto da Formação Java Dio.me, onde exploramos a criação de estruturas de dados lineares com ênfase na programação orientada a objetos. Aqui, abandonamos o convencional uso de vetores para mergulhar no fascinante mundo das referências em nós, revelando os bastidores de cada estrutura.
 
 ## Estruturas de Dados Incluídas
 
 1. Pilha
 2. Fila
 3. Lista Encadeada
+
+## Sobre o Projeto
+As estruturas de dados lineares proporcionam uma compreensão aprofundada de como as referências em nós impulsionam o funcionamento interno de cada estrutura.
 
 ## Como Usar
 
