@@ -7,6 +7,7 @@ Seja bem-vindo ao repositório de estruturas de dados em Java! Este projeto é f
 1. Pilha
 2. Fila
 3. Lista Encadeada
+4. Lista Duplamente Encadeada
 
 ## Sobre o Projeto
 As estruturas de dados lineares proporcionam uma compreensão aprofundada de como as referências em nós impulsionam o funcionamento interno de cada estrutura.
